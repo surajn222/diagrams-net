@@ -1,74 +1,89 @@
-<mxfile host="app.diagrams.net" modified="2022-06-12T07:57:27.155Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="pMGE62kDmVpFSJqB_1Ub" version="20.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-12T08:14:48.281Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="TL1CLty2sKMW5cAg9lAg" version="20.0.0" type="github">
   <diagram id="VbbVIq-V348GXafPitRY" name="Page-1">
     <mxGraphModel dx="1298" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="IrT5WvcMFTRGsWPWCH_t-1" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;f = open(&quot;test_file&quot;, &quot;w&quot;)&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;f.write(&quot;Test&quot;)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;f.close()&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;glass=0;" parent="1" vertex="1">
-          <mxGeometry x="160" y="30" width="650" height="270" as="geometry" />
+        <mxCell id="IrT5WvcMFTRGsWPWCH_t-1" value="&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Original code&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;f = open(&quot;test_file&quot;, &quot;w&quot;)&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;f.write(&quot;Test&quot;)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: medium;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;f.close()&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rounded=0;html=1;align=left;glass=0;strokeWidth=1;spacing=0;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;textDirection=ltr;" parent="1" vertex="1">
+          <mxGeometry x="130" width="790" height="340" as="geometry" />
         </mxCell>
         <mxCell id="LbujWjfgCjVRlwxl8_q9-3" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=9;shape=mxgraph.mockup.markup.curlyBrace;strokeColor=#6c8ebf;fontSize=18;fillColor=#dae8fc;" vertex="1" parent="1">
-          <mxGeometry x="270" y="110" width="130" height="20" as="geometry" />
+          <mxGeometry x="242.5" y="110" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LbujWjfgCjVRlwxl8_q9-5" value="parameters = parameters of __init__ function" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="410" y="110" width="370" height="30" as="geometry" />
+        <mxCell id="LbujWjfgCjVRlwxl8_q9-5" value="parameters = parameters of __init__ function of context manager" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="390" y="110" width="520" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LbujWjfgCjVRlwxl8_q9-8" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=9;shape=mxgraph.mockup.markup.curlyBrace;strokeColor=#82b366;fontSize=18;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="200" y="60" width="215" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LbujWjfgCjVRlwxl8_q9-9" value="open command = __enter__ function" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="420" y="55" width="320" height="30" as="geometry" />
+        <mxCell id="LbujWjfgCjVRlwxl8_q9-9" value="open command = __enter__ function of context manager" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="420" y="55" width="460" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LbujWjfgCjVRlwxl8_q9-10" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=9;shape=mxgraph.mockup.markup.curlyBrace;strokeColor=#b85450;fontSize=18;fillColor=#f8cecc;" vertex="1" parent="1">
-          <mxGeometry x="196" y="227" width="130" height="20" as="geometry" />
+          <mxGeometry x="166" y="270" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LbujWjfgCjVRlwxl8_q9-11" value="close command = __exit__ function" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=1;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="340" y="227" width="300" height="30" as="geometry" />
+        <mxCell id="LbujWjfgCjVRlwxl8_q9-11" value="close command = __exit__ function of context manager" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=1;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="310" y="275" width="460" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LbujWjfgCjVRlwxl8_q9-15" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;1&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=18;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="220" y="90" width="40" height="40" as="geometry" />
+          <mxGeometry x="178" y="97" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LbujWjfgCjVRlwxl8_q9-16" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;2&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=18;strokeWidth=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="150" y="50" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LbujWjfgCjVRlwxl8_q9-17" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;3&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=18;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="140" y="217" width="40" height="40" as="geometry" />
+          <mxGeometry x="120" y="270" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LbujWjfgCjVRlwxl8_q9-25" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="160" y="340" width="800" height="510" as="geometry" />
+        <mxCell id="LbujWjfgCjVRlwxl8_q9-26" value="&lt;div&gt;&lt;b&gt;Usage:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;with Open_File(&quot;test_file&quot;, &quot;w&quot;) as f:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;f.write(&quot;from context manager class\n&quot;)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=24;strokeWidth=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="130" y="920" width="540" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="LbujWjfgCjVRlwxl8_q9-24" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;class Open_File():&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;blockquote style=&quot;font-size: 18px; margin: 0px 0px 0px 40px; border: none; padding: 0px;&quot;&gt;&lt;div&gt;def __init__(self, filename, mode):&lt;/div&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;font-size: 18px; margin: 0px 0px 0px 40px; border: none; padding: 0px;&quot;&gt;&lt;div&gt;self.filename = filename&lt;/div&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;font-size: 18px; margin: 0px 0px 0px 40px; border: none; padding: 0px;&quot;&gt;&lt;div&gt;self.mode = mode&lt;/div&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;blockquote style=&quot;font-size: 18px; margin: 0px 0px 0px 40px; border: none; padding: 0px;&quot;&gt;&lt;div&gt;def __enter__(self):&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;font-size: 18px; margin: 0px 0px 0px 40px; border: none; padding: 0px;&quot;&gt;&lt;div&gt;self.file = open(self.filename, self.mode)&lt;/div&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;font-size: 18px; margin: 0px 0px 0px 40px; border: none; padding: 0px;&quot;&gt;&lt;div&gt;return self.file&lt;/div&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;blockquote style=&quot;font-size: 18px; margin: 0px 0px 0px 40px; border: none; padding: 0px;&quot;&gt;&lt;div&gt;def __exit__(self, exc_type, exc_val, exc_tb):&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;self.file.close()&lt;/div&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=24;strokeWidth=1;align=left;" vertex="1" parent="LbujWjfgCjVRlwxl8_q9-25">
-          <mxGeometry width="800" height="510" as="geometry" />
+        <mxCell id="LbujWjfgCjVRlwxl8_q9-24" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Context Manager Class&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;class Open_File():&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;blockquote style=&quot;font-size: 18px; margin: 0px 0px 0px 40px; border: none; padding: 0px;&quot;&gt;&lt;div&gt;def __init__(self, filename, mode):&lt;/div&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;font-size: 18px; margin: 0px 0px 0px 40px; border: none; padding: 0px;&quot;&gt;&lt;div&gt;self.filename = filename&lt;/div&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;font-size: 18px; margin: 0px 0px 0px 40px; border: none; padding: 0px;&quot;&gt;&lt;div&gt;self.mode = mode&lt;/div&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;blockquote style=&quot;font-size: 18px; margin: 0px 0px 0px 40px; border: none; padding: 0px;&quot;&gt;&lt;div&gt;def __enter__(self):&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;font-size: 18px; margin: 0px 0px 0px 40px; border: none; padding: 0px;&quot;&gt;&lt;div&gt;self.file = open(self.filename, self.mode)&lt;/div&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;font-size: 18px; margin: 0px 0px 0px 40px; border: none; padding: 0px;&quot;&gt;&lt;div&gt;return self.file&lt;/div&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;blockquote style=&quot;font-size: 18px; margin: 0px 0px 0px 40px; border: none; padding: 0px;&quot;&gt;&lt;div&gt;def __exit__(self, exc_type, exc_val, exc_tb):&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;self.file.close()&lt;/div&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=24;strokeWidth=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="130" y="380" width="800" height="480" as="geometry" />
         </mxCell>
-        <mxCell id="LbujWjfgCjVRlwxl8_q9-6" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=9;shape=mxgraph.mockup.markup.curlyBrace;strokeColor=#6c8ebf;fontSize=18;fillColor=#dae8fc;" vertex="1" parent="LbujWjfgCjVRlwxl8_q9-25">
-          <mxGeometry x="166" y="100" width="130" height="20" as="geometry" />
+        <mxCell id="LbujWjfgCjVRlwxl8_q9-6" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=9;shape=mxgraph.mockup.markup.curlyBrace;strokeColor=#6c8ebf;fontSize=18;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="296" y="470" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LbujWjfgCjVRlwxl8_q9-7" value="init parameters" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="LbujWjfgCjVRlwxl8_q9-25">
-          <mxGeometry x="320" y="90" width="130" height="30" as="geometry" />
+        <mxCell id="LbujWjfgCjVRlwxl8_q9-7" value="parameters of __init__ function of context manager" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="450" y="450" width="430" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LbujWjfgCjVRlwxl8_q9-12" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=9;shape=mxgraph.mockup.markup.curlyBrace;strokeColor=#b85450;fontSize=18;fillColor=#f8cecc;" vertex="1" parent="LbujWjfgCjVRlwxl8_q9-25">
-          <mxGeometry x="60" y="405" width="130" height="20" as="geometry" />
+        <mxCell id="LbujWjfgCjVRlwxl8_q9-12" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=9;shape=mxgraph.mockup.markup.curlyBrace;strokeColor=#b85450;fontSize=18;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="210" y="780" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LbujWjfgCjVRlwxl8_q9-18" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;1&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=18;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="LbujWjfgCjVRlwxl8_q9-25">
-          <mxGeometry x="60" y="90" width="40" height="40" as="geometry" />
+        <mxCell id="LbujWjfgCjVRlwxl8_q9-18" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;1&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=18;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="190" y="450" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LbujWjfgCjVRlwxl8_q9-19" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;2&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=18;strokeWidth=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="LbujWjfgCjVRlwxl8_q9-25">
-          <mxGeometry x="10" y="270" width="40" height="40" as="geometry" />
+        <mxCell id="LbujWjfgCjVRlwxl8_q9-19" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;2&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=18;strokeWidth=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="140" y="640" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LbujWjfgCjVRlwxl8_q9-20" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=9;shape=mxgraph.mockup.markup.curlyBrace;strokeColor=#82b366;fontSize=18;fillColor=#d5e8d4;" vertex="1" parent="LbujWjfgCjVRlwxl8_q9-25">
-          <mxGeometry x="146" y="270" width="239" height="30" as="geometry" />
+        <mxCell id="LbujWjfgCjVRlwxl8_q9-20" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=9;shape=mxgraph.mockup.markup.curlyBrace;strokeColor=#82b366;fontSize=18;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="290" y="640" width="239" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LbujWjfgCjVRlwxl8_q9-21" value="open command = __enter__ function, wth the return command" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="LbujWjfgCjVRlwxl8_q9-25">
-          <mxGeometry x="410" y="270" width="320" height="50" as="geometry" />
+        <mxCell id="LbujWjfgCjVRlwxl8_q9-21" value="open command = __enter__ function, wth the return command" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="540" y="630" width="320" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="LbujWjfgCjVRlwxl8_q9-22" value="close command = __exit__ function" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=1;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="LbujWjfgCjVRlwxl8_q9-25">
-          <mxGeometry x="280" y="420" width="300" height="30" as="geometry" />
+        <mxCell id="LbujWjfgCjVRlwxl8_q9-22" value="close command = __exit__ function of context manager" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=1;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="372.5" y="780" width="467.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LbujWjfgCjVRlwxl8_q9-23" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;3&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=18;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="LbujWjfgCjVRlwxl8_q9-25">
-          <mxGeometry y="400" width="40" height="40" as="geometry" />
+        <mxCell id="LbujWjfgCjVRlwxl8_q9-23" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;3&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=18;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="140" y="770" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LbujWjfgCjVRlwxl8_q9-26" value="&lt;div&gt;&lt;b&gt;Usage:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;with Open_File(&quot;test_file&quot;, &quot;w&quot;) as f:&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;f.write(&quot;from context manager class\n&quot;)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=24;strokeWidth=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="170" y="930" width="540" height="110" as="geometry" />
+        <mxCell id="LbujWjfgCjVRlwxl8_q9-27" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;4&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=18;strokeWidth=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="110" y="190" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LbujWjfgCjVRlwxl8_q9-28" value="execute command =. used when context manager is called" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="310" y="185" width="485" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LbujWjfgCjVRlwxl8_q9-29" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;4&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=18;strokeWidth=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="120" y="970" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LbujWjfgCjVRlwxl8_q9-30" value="execute command =. used when context manager is called" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="340" y="980" width="485" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LbujWjfgCjVRlwxl8_q9-31" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=9;shape=mxgraph.mockup.markup.curlyBrace;strokeColor=#d6b656;fontSize=18;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="160" y="185" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LbujWjfgCjVRlwxl8_q9-32" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=9;shape=mxgraph.mockup.markup.curlyBrace;strokeColor=#d6b656;fontSize=18;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="180" y="980" width="130" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
